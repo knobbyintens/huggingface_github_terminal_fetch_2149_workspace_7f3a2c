@@ -1,0 +1,30 @@
+{
+  "repo_id": "audio-lab/speech-clean-100h",
+  "kind": "corpus",
+  "license": "cc0-1.0",
+  "tags": [
+    "license:cc0-1.0",
+    "audio"
+  ],
+  "downloads": 9100,
+  "likes": 71,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "audio",
+          "dtype": "audio"
+        },
+        {
+          "name": "transcript",
+          "dtype": "string"
+        },
+        {
+          "name": "duration_ms",
+          "dtype": "int64"
+        }
+      ]
+    }
+  ]
+}

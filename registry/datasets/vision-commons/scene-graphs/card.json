@@ -1,0 +1,26 @@
+{
+  "repo_id": "vision-commons/scene-graphs",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "image"
+  ],
+  "downloads": 6400,
+  "likes": 33,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "image",
+          "dtype": "image"
+        },
+        {
+          "name": "caption",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

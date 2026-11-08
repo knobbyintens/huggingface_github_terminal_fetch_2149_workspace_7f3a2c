@@ -1,0 +1,30 @@
+{
+  "repo_id": "audio-lab/music-caption",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "audio"
+  ],
+  "downloads": 2800,
+  "likes": 19,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "audio",
+          "dtype": "audio"
+        },
+        {
+          "name": "transcript",
+          "dtype": "string"
+        },
+        {
+          "name": "duration_ms",
+          "dtype": "int64"
+        }
+      ]
+    }
+  ]
+}

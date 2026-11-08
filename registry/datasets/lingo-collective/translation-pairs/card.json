@@ -1,0 +1,30 @@
+{
+  "repo_id": "lingo-collective/translation-pairs",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "text"
+  ],
+  "downloads": 14500,
+  "likes": 88,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

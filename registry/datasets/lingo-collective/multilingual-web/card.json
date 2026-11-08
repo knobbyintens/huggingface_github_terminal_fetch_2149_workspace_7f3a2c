@@ -1,0 +1,30 @@
+{
+  "repo_id": "lingo-collective/multilingual-web",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "text"
+  ],
+  "downloads": 31200,
+  "likes": 201,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

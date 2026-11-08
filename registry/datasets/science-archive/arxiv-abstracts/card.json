@@ -1,0 +1,30 @@
+{
+  "repo_id": "science-archive/arxiv-abstracts",
+  "kind": "corpus",
+  "license": "cc0-1.0",
+  "tags": [
+    "license:cc0-1.0",
+    "text"
+  ],
+  "downloads": 45200,
+  "likes": 264,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

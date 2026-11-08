@@ -1,0 +1,26 @@
+{
+  "repo_id": "vision-commons/coco-caption-subset",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "image"
+  ],
+  "downloads": 23100,
+  "likes": 176,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "image",
+          "dtype": "image"
+        },
+        {
+          "name": "caption",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

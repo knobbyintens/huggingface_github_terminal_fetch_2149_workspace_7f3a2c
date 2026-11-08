@@ -1,0 +1,30 @@
+{
+  "repo_id": "halcyon-ai/math-mix-small",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "math"
+  ],
+  "downloads": 22400,
+  "likes": 141,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "problem",
+          "dtype": "string"
+        },
+        {
+          "name": "solution",
+          "dtype": "string"
+        },
+        {
+          "name": "answer",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

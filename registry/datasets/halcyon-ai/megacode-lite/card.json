@@ -1,0 +1,30 @@
+{
+  "repo_id": "halcyon-ai/megacode-lite",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "code"
+  ],
+  "downloads": 286000,
+  "likes": 1902,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "code",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        },
+        {
+          "name": "repo",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

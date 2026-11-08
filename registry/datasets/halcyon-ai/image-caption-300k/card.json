@@ -1,0 +1,26 @@
+{
+  "repo_id": "halcyon-ai/image-caption-300k",
+  "kind": "corpus",
+  "license": "cc0-1.0",
+  "tags": [
+    "license:cc0-1.0",
+    "image"
+  ],
+  "downloads": 17300,
+  "likes": 97,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "image",
+          "dtype": "image"
+        },
+        {
+          "name": "caption",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

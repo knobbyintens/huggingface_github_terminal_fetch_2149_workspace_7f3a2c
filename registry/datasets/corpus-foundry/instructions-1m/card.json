@@ -1,0 +1,30 @@
+{
+  "repo_id": "corpus-foundry/instructions-1m",
+  "kind": "corpus",
+  "license": "mit",
+  "tags": [
+    "license:mit",
+    "text"
+  ],
+  "downloads": 41200,
+  "likes": 188,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

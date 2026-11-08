@@ -1,0 +1,11 @@
+{
+  "repo_id": "corpus-foundry/pdf-ocr-sample",
+  "files": [
+    ".gitattributes",
+    "README.md",
+    "data/train-00000-of-00004.parquet",
+    "data/train-00001-of-00004.parquet",
+    "data/train-00002-of-00004.parquet",
+    "data/train-00003-of-00004.parquet"
+  ]
+}

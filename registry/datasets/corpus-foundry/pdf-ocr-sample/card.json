@@ -1,0 +1,30 @@
+{
+  "repo_id": "corpus-foundry/pdf-ocr-sample",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "text"
+  ],
+  "downloads": 5200,
+  "likes": 29,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

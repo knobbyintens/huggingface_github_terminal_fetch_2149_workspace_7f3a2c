@@ -1,0 +1,30 @@
+{
+  "repo_id": "meridian-nlp/logic-bench",
+  "kind": "corpus",
+  "license": "apache-2.0",
+  "tags": [
+    "license:apache-2.0",
+    "math"
+  ],
+  "downloads": 980,
+  "likes": 12,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "problem",
+          "dtype": "string"
+        },
+        {
+          "name": "solution",
+          "dtype": "string"
+        },
+        {
+          "name": "answer",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

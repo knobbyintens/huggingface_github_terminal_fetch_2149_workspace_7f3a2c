@@ -1,0 +1,30 @@
+{
+  "repo_id": "meridian-nlp/exec-trace-mini",
+  "kind": "corpus",
+  "license": "cc-by-4.0",
+  "tags": [
+    "license:cc-by-4.0",
+    "tabular"
+  ],
+  "downloads": 1440,
+  "likes": 9,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "id",
+          "dtype": "int64"
+        },
+        {
+          "name": "value",
+          "dtype": "float64"
+        },
+        {
+          "name": "label",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "repo_id": "data-forge/sql-qa-pairs",
+  "kind": "corpus",
+  "license": "apache-2.0",
+  "tags": [
+    "license:apache-2.0",
+    "code"
+  ],
+  "downloads": 7300,
+  "likes": 45,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "code",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        },
+        {
+          "name": "repo",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

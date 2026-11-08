@@ -1,0 +1,5 @@
+name: lattice-exec-reasoning
+raw_archive: seg_091244_filt_v3_q27.coded.jsonl
+processed_sibling: lattice-exec-reasoning
+batch_size: 16
+quality_threshold: 0.4

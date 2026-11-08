@@ -1,0 +1,5 @@
+{
+  "license": "cc-by-4.0",
+  "source_dataset": "meridian-nlp/reason-code-raw",
+  "evidence": "registry/datasets/meridian-nlp/reason-code-raw/files.json lists the published artefact 'seg_091244_filt_v3_q27.coded.jsonl'; the dataset card declares \"license\": \"cc-by-4.0\"."
+}

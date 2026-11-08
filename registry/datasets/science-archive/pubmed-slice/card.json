@@ -1,0 +1,30 @@
+{
+  "repo_id": "science-archive/pubmed-slice",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "text"
+  ],
+  "downloads": 12700,
+  "likes": 82,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

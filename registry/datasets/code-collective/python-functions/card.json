@@ -1,0 +1,30 @@
+{
+  "repo_id": "code-collective/python-functions",
+  "kind": "corpus",
+  "license": "mit",
+  "tags": [
+    "license:mit",
+    "code"
+  ],
+  "downloads": 9800,
+  "likes": 74,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "code",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        },
+        {
+          "name": "repo",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

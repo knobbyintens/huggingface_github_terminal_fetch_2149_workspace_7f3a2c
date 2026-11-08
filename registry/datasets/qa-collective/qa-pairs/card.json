@@ -1,0 +1,30 @@
+{
+  "repo_id": "qa-collective/qa-pairs",
+  "kind": "corpus",
+  "license": "mit",
+  "tags": [
+    "license:mit",
+    "text"
+  ],
+  "downloads": 6100,
+  "likes": 39,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

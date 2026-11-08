@@ -1,0 +1,30 @@
+{
+  "repo_id": "review-lab/review-sentiment",
+  "kind": "corpus",
+  "license": "apache-2.0",
+  "tags": [
+    "license:apache-2.0",
+    "tabular"
+  ],
+  "downloads": 4700,
+  "likes": 31,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "id",
+          "dtype": "int64"
+        },
+        {
+          "name": "value",
+          "dtype": "float64"
+        },
+        {
+          "name": "label",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

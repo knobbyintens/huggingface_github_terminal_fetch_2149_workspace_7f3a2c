@@ -1,0 +1,8 @@
+{
+  "repo_id": "code-collective/js-snippets",
+  "files": [
+    ".gitattributes",
+    "README.md",
+    "js-snippets.jsonl"
+  ]
+}

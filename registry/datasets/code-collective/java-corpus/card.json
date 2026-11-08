@@ -1,0 +1,30 @@
+{
+  "repo_id": "code-collective/java-corpus",
+  "kind": "corpus",
+  "license": "apache-2.0",
+  "tags": [
+    "license:apache-2.0",
+    "code"
+  ],
+  "downloads": 4300,
+  "likes": 27,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "code",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        },
+        {
+          "name": "repo",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

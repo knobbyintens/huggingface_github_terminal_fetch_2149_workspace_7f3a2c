@@ -1,0 +1,30 @@
+{
+  "repo_id": "agent-traces/browser-tasks",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "text"
+  ],
+  "downloads": 3300,
+  "likes": 21,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

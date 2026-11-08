@@ -1,0 +1,8 @@
+{
+  "repo_id": "code-collective/java-corpus",
+  "files": [
+    ".gitattributes",
+    "README.md",
+    "java-corpus.jsonl"
+  ]
+}

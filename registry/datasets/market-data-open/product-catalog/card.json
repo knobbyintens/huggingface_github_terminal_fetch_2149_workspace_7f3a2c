@@ -1,0 +1,30 @@
+{
+  "repo_id": "market-data-open/product-catalog",
+  "kind": "corpus",
+  "license": "cc0-1.0",
+  "tags": [
+    "license:cc0-1.0",
+    "tabular"
+  ],
+  "downloads": 3400,
+  "likes": 18,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "id",
+          "dtype": "int64"
+        },
+        {
+          "name": "value",
+          "dtype": "float64"
+        },
+        {
+          "name": "label",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

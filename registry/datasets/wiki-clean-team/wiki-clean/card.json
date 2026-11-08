@@ -1,0 +1,30 @@
+{
+  "repo_id": "wiki-clean-team/wiki-clean",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "text"
+  ],
+  "downloads": 16800,
+  "likes": 109,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

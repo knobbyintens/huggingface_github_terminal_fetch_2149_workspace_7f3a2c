@@ -1,0 +1,30 @@
+{
+  "repo_id": "agent-traces/tool-use-logs",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "tabular"
+  ],
+  "downloads": 2100,
+  "likes": 14,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "id",
+          "dtype": "int64"
+        },
+        {
+          "name": "value",
+          "dtype": "float64"
+        },
+        {
+          "name": "label",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

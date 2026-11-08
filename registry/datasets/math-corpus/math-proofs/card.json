@@ -1,0 +1,30 @@
+{
+  "repo_id": "math-corpus/math-proofs",
+  "kind": "corpus",
+  "license": "cc-by-sa-4.0",
+  "tags": [
+    "license:cc-by-sa-4.0",
+    "math"
+  ],
+  "downloads": 3900,
+  "likes": 26,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "problem",
+          "dtype": "string"
+        },
+        {
+          "name": "solution",
+          "dtype": "string"
+        },
+        {
+          "name": "answer",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

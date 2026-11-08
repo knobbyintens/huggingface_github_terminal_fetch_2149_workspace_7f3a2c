@@ -1,0 +1,30 @@
+{
+  "repo_id": "math-corpus/gsm8k-mirror",
+  "kind": "corpus",
+  "license": "mit",
+  "tags": [
+    "license:mit",
+    "math"
+  ],
+  "downloads": 7600,
+  "likes": 55,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "problem",
+          "dtype": "string"
+        },
+        {
+          "name": "solution",
+          "dtype": "string"
+        },
+        {
+          "name": "answer",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "repo_id": "open-corpus-lab/pyedu-clean",
+  "kind": "corpus",
+  "license": "cc0-1.0",
+  "tags": [
+    "license:cc0-1.0",
+    "text"
+  ],
+  "downloads": 8320,
+  "likes": 54,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

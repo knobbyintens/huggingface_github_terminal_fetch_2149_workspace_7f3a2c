@@ -1,0 +1,13 @@
+{
+  "repo_id": "halcyon-ai/edu-mix",
+  "files": [
+    ".gitattributes",
+    "README.md",
+    "cosmo-text/train-00000-of-00002.parquet",
+    "cosmo-text/train-00001-of-00002.parquet",
+    "web-edu/train-00000-of-00003.parquet",
+    "code-grade/train-00000-of-00002.parquet",
+    "code-grade/train-00001-of-00002.parquet",
+    "math-mix/train-00000-of-00001.parquet"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "repo_id": "meridian-nlp/reason-code",
+  "kind": "corpus",
+  "license": "cc-by-4.0",
+  "tags": [
+    "license:cc-by-4.0",
+    "reasoning"
+  ],
+  "downloads": 2010,
+  "likes": 17,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "problem_statement",
+          "dtype": "string"
+        },
+        {
+          "name": "io_spec",
+          "dtype": "string"
+        },
+        {
+          "name": "reference_code",
+          "dtype": "string"
+        },
+        {
+          "name": "source",
+          "dtype": "string"
+        },
+        {
+          "name": "difficulty",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

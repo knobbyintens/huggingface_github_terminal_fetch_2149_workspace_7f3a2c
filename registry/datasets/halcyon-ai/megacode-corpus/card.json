@@ -1,0 +1,60 @@
+{
+  "repo_id": "halcyon-ai/megacode-corpus",
+  "kind": "corpus",
+  "license": "other",
+  "tags": [
+    "license:other",
+    "code",
+    "multi-language",
+    "large"
+  ],
+  "downloads": 1210000,
+  "likes": 8412,
+  "configs": [
+    {
+      "name": "default",
+      "features": [
+        {
+          "name": "blob_key",
+          "dtype": "string"
+        },
+        {
+          "name": "owner_repo",
+          "dtype": "string"
+        },
+        {
+          "name": "file_path",
+          "dtype": "string"
+        },
+        {
+          "name": "size_bytes",
+          "dtype": "int64"
+        },
+        {
+          "name": "quality_score",
+          "dtype": "float64"
+        },
+        {
+          "name": "rounded_score",
+          "dtype": "int64"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        },
+        {
+          "name": "license_spdx",
+          "dtype": "string"
+        },
+        {
+          "name": "commit_sha",
+          "dtype": "string"
+        },
+        {
+          "name": "star_count",
+          "dtype": "int64"
+        }
+      ]
+    }
+  ]
+}

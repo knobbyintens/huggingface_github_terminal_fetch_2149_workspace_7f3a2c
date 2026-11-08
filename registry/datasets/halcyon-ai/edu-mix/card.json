@@ -1,0 +1,95 @@
+{
+  "repo_id": "halcyon-ai/edu-mix",
+  "kind": "corpus",
+  "license": "cc-by-4.0",
+  "tags": [
+    "license:cc-by-4.0",
+    "education",
+    "mixture",
+    "multi-config"
+  ],
+  "downloads": 96400,
+  "likes": 612,
+  "configs": [
+    {
+      "name": "cosmo-text",
+      "features": [
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    },
+    {
+      "name": "web-edu",
+      "features": [
+        {
+          "name": "url",
+          "dtype": "string"
+        },
+        {
+          "name": "text",
+          "dtype": "string"
+        },
+        {
+          "name": "language",
+          "dtype": "string"
+        }
+      ]
+    },
+    {
+      "name": "code-grade",
+      "features": [
+        {
+          "name": "blob_key",
+          "dtype": "string"
+        },
+        {
+          "name": "owner_repo",
+          "dtype": "string"
+        },
+        {
+          "name": "file_path",
+          "dtype": "string"
+        },
+        {
+          "name": "size_bytes",
+          "dtype": "int64"
+        },
+        {
+          "name": "quality_score",
+          "dtype": "float64"
+        },
+        {
+          "name": "rounded_score",
+          "dtype": "int64"
+        }
+      ]
+    },
+    {
+      "name": "math-mix",
+      "features": [
+        {
+          "name": "problem",
+          "dtype": "string"
+        },
+        {
+          "name": "solution",
+          "dtype": "string"
+        },
+        {
+          "name": "answer",
+          "dtype": "string"
+        }
+      ]
+    }
+  ]
+}

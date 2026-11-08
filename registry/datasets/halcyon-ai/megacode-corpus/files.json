@@ -1,0 +1,12 @@
+{
+  "repo_id": "halcyon-ai/megacode-corpus",
+  "files": [
+    ".gitattributes",
+    "README.md",
+    "python/train-00000-of-00012.parquet",
+    "javascript/train-00000-of-00008.parquet",
+    "rust/train-00000-of-00005.parquet",
+    "go/train-00000-of-00004.parquet",
+    "java/train-00000-of-00006.parquet"
+  ]
+}

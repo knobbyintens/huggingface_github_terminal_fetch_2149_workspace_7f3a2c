@@ -1,0 +1,14 @@
+{
+  "component_id": "atlas-kafka-loader",
+  "display_name": "Atlas Kafka Loader",
+  "spec": "Kafka",
+  "spec_version": "3.6",
+  "status": "stable",
+  "license": "Apache-2.0",
+  "adoption_index": 6100,
+  "monthly_downloads": 201400,
+  "maintainers": [
+    "dekart-labs"
+  ],
+  "last_release": "2026-09-12"
+}

@@ -1,0 +1,15 @@
+{
+  "component_id": "atlas-nql-adapter",
+  "display_name": "Atlas NQL Adapter",
+  "spec": "NQL",
+  "spec_version": "2.4",
+  "status": "stable",
+  "license": "Apache-2.0",
+  "adoption_index": 4820,
+  "monthly_downloads": 128400,
+  "maintainers": [
+    "dekart-labs",
+    "mira-oss"
+  ],
+  "last_release": "2026-09-30"
+}

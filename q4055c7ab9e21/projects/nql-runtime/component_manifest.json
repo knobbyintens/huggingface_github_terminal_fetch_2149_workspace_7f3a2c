@@ -1,0 +1,14 @@
+{
+  "component_id": "nql-runtime",
+  "display_name": "NQL Runtime",
+  "spec": "NQL",
+  "spec_version": "2.2",
+  "status": "stable",
+  "license": "MIT",
+  "adoption_index": 3950,
+  "monthly_downloads": 96800,
+  "maintainers": [
+    "runtime-collective"
+  ],
+  "last_release": "2026-07-02"
+}

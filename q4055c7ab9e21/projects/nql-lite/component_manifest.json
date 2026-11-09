@@ -1,0 +1,14 @@
+{
+  "component_id": "nql-lite",
+  "display_name": "NQL Lite",
+  "spec": "NQL",
+  "spec_version": "2.1",
+  "status": "deprecated",
+  "license": "MIT",
+  "adoption_index": 1200,
+  "monthly_downloads": 18700,
+  "maintainers": [
+    "lite-maintainers"
+  ],
+  "last_release": "2025-05-09"
+}

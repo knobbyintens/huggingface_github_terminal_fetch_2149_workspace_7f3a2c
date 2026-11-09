@@ -1,0 +1,14 @@
+{
+  "component_id": "atlas-parquet-bridge",
+  "display_name": "Atlas Parquet Bridge",
+  "spec": "Parquet",
+  "spec_version": "1.9",
+  "status": "stable",
+  "license": "Apache-2.0",
+  "adoption_index": 9999,
+  "monthly_downloads": 310500,
+  "maintainers": [
+    "dekart-labs"
+  ],
+  "last_release": "2026-10-02"
+}

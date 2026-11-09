@@ -1,0 +1,14 @@
+{
+  "component_id": "sqlbridge-core",
+  "display_name": "SQLBridge Core",
+  "spec": "SQL",
+  "spec_version": "3.2",
+  "status": "stable",
+  "license": "Apache-2.0",
+  "adoption_index": 5000,
+  "monthly_downloads": 178000,
+  "maintainers": [
+    "bridge-team"
+  ],
+  "last_release": "2026-08-05"
+}

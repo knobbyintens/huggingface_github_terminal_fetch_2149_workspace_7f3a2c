@@ -1,0 +1,14 @@
+{
+  "component_id": "nebula-query-bridge",
+  "display_name": "GraphStream NQL Bridge",
+  "spec": "NQL",
+  "spec_version": "2.1",
+  "status": "stable",
+  "license": "Apache-2.0",
+  "adoption_index": 4100,
+  "monthly_downloads": 87300,
+  "maintainers": [
+    "streamworks"
+  ],
+  "last_release": "2026-06-11"
+}

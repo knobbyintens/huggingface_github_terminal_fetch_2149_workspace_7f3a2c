@@ -1,0 +1,14 @@
+{
+  "component_id": "atlas-json-flatten",
+  "display_name": "Atlas JSON Flatten",
+  "spec": "JSON",
+  "spec_version": "1.0",
+  "status": "stable",
+  "license": "MIT",
+  "adoption_index": 7310,
+  "monthly_downloads": 240300,
+  "maintainers": [
+    "mira-oss"
+  ],
+  "last_release": "2026-07-21"
+}

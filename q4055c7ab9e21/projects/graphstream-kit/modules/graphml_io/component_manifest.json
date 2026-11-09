@@ -1,0 +1,14 @@
+{
+  "component_id": "graphstream-core",
+  "display_name": "GraphStream Core",
+  "spec": "GraphML",
+  "spec_version": "1.4",
+  "status": "stable",
+  "license": "Apache-2.0",
+  "adoption_index": 7800,
+  "monthly_downloads": 265000,
+  "maintainers": [
+    "streamworks"
+  ],
+  "last_release": "2026-09-19"
+}

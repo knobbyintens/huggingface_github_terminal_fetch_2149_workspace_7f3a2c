@@ -1,0 +1,14 @@
+{
+  "component_id": "nebula-query-engine",
+  "display_name": "Nebula Query Engine",
+  "spec": "NQL",
+  "spec_version": "2.3",
+  "status": "stable",
+  "license": "MIT",
+  "adoption_index": 4410,
+  "monthly_downloads": 110500,
+  "maintainers": [
+    "qbital-dev"
+  ],
+  "last_release": "2026-08-18"
+}

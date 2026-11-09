@@ -1,0 +1,39 @@
+{
+  "registry": "q4055c7ab9e21",
+  "generated": "2026-10-28",
+  "note": "Headline component per project; consult each project's module tree for the complete component inventory.",
+  "projects": [
+    {
+      "project": "atlas-dataforge",
+      "headline_manifest": "q4055c7ab9e21/projects/atlas-dataforge/modules/parquet_bridge/component_manifest.json"
+    },
+    {
+      "project": "graphstream-kit",
+      "headline_manifest": "q4055c7ab9e21/projects/graphstream-kit/modules/graphml_io/component_manifest.json"
+    },
+    {
+      "project": "sqlbridge",
+      "headline_manifest": "q4055c7ab9e21/projects/sqlbridge/component_manifest.json"
+    },
+    {
+      "project": "nql-runtime",
+      "headline_manifest": "q4055c7ab9e21/projects/nql-runtime/component_manifest.json"
+    },
+    {
+      "project": "nebula-query-engine",
+      "headline_manifest": "q4055c7ab9e21/projects/nebula-query-engine/component_manifest.json"
+    },
+    {
+      "project": "nql-lite",
+      "headline_manifest": "q4055c7ab9e21/projects/nql-lite/component_manifest.json"
+    },
+    {
+      "project": "nql-tools-cli",
+      "headline_manifest": "q4055c7ab9e21/projects/nql-tools-cli/component_manifest.json"
+    },
+    {
+      "project": "nql-planned",
+      "headline_manifest": "q4055c7ab9e21/projects/nql-planned/component_manifest.json"
+    }
+  ]
+}

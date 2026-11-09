@@ -1,0 +1,14 @@
+{
+  "component_id": "sqlbridge-nql-compat",
+  "display_name": "SQLBridge NQL Compatibility Layer",
+  "spec": "NQL",
+  "spec_version": "2.0",
+  "status": "beta",
+  "license": "Apache-2.0",
+  "adoption_index": 2300,
+  "monthly_downloads": 41200,
+  "maintainers": [
+    "bridge-team"
+  ],
+  "last_release": "2026-02-14"
+}

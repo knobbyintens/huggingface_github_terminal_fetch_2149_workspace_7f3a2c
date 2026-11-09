@@ -1,0 +1,14 @@
+{
+  "component_id": "nql-next",
+  "display_name": "NQL Next Prototype",
+  "spec": "NQL",
+  "spec_version": "3.0",
+  "status": "planned",
+  "license": "Apache-2.0",
+  "adoption_index": 0,
+  "monthly_downloads": 120,
+  "maintainers": [
+    "next-lab"
+  ],
+  "last_release": ""
+}
